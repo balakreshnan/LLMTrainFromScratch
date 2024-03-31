@@ -7,3 +7,7 @@ Gen AI LLM Train from Scratch
 - Here is the youtube - https://www.youtube.com/watch?v=2-SPH9hIKT8
 
 [![Watch the video]([https://youtu.be/nTQUwghvy5Q](https://www.youtube.com/watch?v=2-SPH9hIKT8))
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2-SPH9hIKT8" target="_blank">
+ <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
