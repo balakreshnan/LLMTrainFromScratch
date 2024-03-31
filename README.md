@@ -1,4 +1,4 @@
-# LLMTrainFromScratch
+# LLM Train From Scratch
 Gen AI LLM Train from Scratch
 
 ## Hugging face CEO training
